@@ -21,7 +21,7 @@ This repository provides **two complete, battle-tested solutions** for playing a
 
 ```
 win10_cc/
-├── assets/                         # Extracted sprites, audio, icon, and project banner
+├── assets/                         # Project banner and application icon
 ├── direct_method/                  # METHOD 1: 16-bit Compatibility Layer
 │   ├── chips_challenge/            # Original 16-bit files (CHIPS.EXE, CHIPS.DAT, WAV, MID)
 │   ├── tools/otvdm/                # WineVDM portable runtime (~4 MB)
